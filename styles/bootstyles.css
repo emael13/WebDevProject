@@ -1,0 +1,70 @@
+.headCenter{
+    text-align:center;
+}
+
+.TabLeft{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+body{
+    background-color:rgb(240, 213, 179);
+}
+
+/*.grid1{
+    display:grid;
+    grid-template-columns:600px 20px 600px;
+    text-align: center;
+    margin:auto;
+}*/
+
+/*.grid2{
+    display: grid;
+    grid-template-columns: 600px 20px 600px;
+    margin:auto;
+}*/
+
+.Navigation{
+    top:5px;
+    height: 100px;
+    margin:auto;
+}
+
+.footer{
+    bottom: 5px;
+    height: 50px;
+    position: fixed;
+    margin:auto;
+}
+
+.common{
+    background-color:steelblue;
+    border: solid 2px steelblue;
+    position:relative;
+}
+
+.ehead{
+    color: white;
+}
+
+.Tableau{
+    margin:auto;
+}
+
+.fontstyle{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+a:visited{
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+a:hover{
+    color:midnightblue;
+    text-decoration:none;
+}
+
+a:link{
+    text-decoration: none;
+}

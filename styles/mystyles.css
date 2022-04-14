@@ -1,0 +1,78 @@
+/*this will be applied to the about and index pages*/
+
+h1{
+    font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.intro{ /*custom-style we have over-written*/
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+li{
+    padding-bottom: 10px;
+}
+
+.paddingSpace{
+    padding-bottom: 30px;
+}
+
+.headCenter{
+    text-align:center;
+}
+
+body{
+    background-image: url('../images/DSC_4634.JPG');
+}
+
+.title2{
+    color: rgb(60, 19, 33);
+}
+
+.photoPadding{
+    padding-left: 300px;
+}
+
+.photoPadding2{
+    text-align: center;
+}
+
+.pFloat{
+    float: left;
+    margin: 0 30px 0 0;
+}
+ 
+.pFloat2{
+     float: right;
+     margin: 0 0 0 15px;
+}
+
+.textPadding{
+     padding-left:30px
+}
+
+.ephoto{
+    display:grid;
+    grid-template-columns: auto auto auto;
+}
+
+a:visited{
+    color:peru;
+    text-decoration: none;
+}
+
+a:hover{
+    color:black;
+    text-decoration: none;
+}
+
+a:link{
+    color:black;
+    text-decoration: none;
+}
+
+a:active{
+    color:black;
+    text-decoration: none;
+}
+
+
